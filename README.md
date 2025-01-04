@@ -14,6 +14,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimalka3005&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 
+---
+
+
+### Portfolio
+> https://dimalka3005.github.io/portfolio
 
 
 
@@ -32,7 +37,7 @@ Aspiring Software Engineer | Passionate Problem Solver | Driven to Become a Worl
 - Master advanced system design 🏗️
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dimalka3005&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dimalka3005&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimalka3005&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
