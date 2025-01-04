@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhlZTR2dDQ4N2x4a2oxZDIyanFvNmlhaXN3aGZjNDd6MDZhNGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.webp" alt="Masterhead" width="100%" height="400" style="position: absolute; top: 0; left: 0; z-index: -1;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhlZTR2dDQ4N2x4a2oxZDIyanFvNmlhaXN3aGZjNDd6MDZhNGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.webp" alt="Masterhead" width="100%" height="350" style="position: absolute; top: 0; left: 0; z-index: -1;" />
 </p>
 <h1 align="center">◈-◈-◈-◈-◈-◈-◈-◈- Dimalka Gallage -◈-◈-◈-◈-◈-◈-◈-◈</h1>
 <a href="https://www.github.com/Dimalka3005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -9,6 +9,12 @@
 <a href="https://www.instagram.com/dimalkagallage1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.pinterest.com/dimalkagallage" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
 <a href="https://youtube.com/@Dimalka_Gallage" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dimalka3005&label=Profile%20Views&color=brightgreen&style=flat-square)
+
+
+
 
 
 # 📜 About Me:
