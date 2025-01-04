@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhlZTR2dDQ4N2x4a2oxZDIyanFvNmlhaXN3aGZjNDd6MDZhNGxqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.webp" alt="Masterhead" width="100%" height="350" style="position: absolute; top: 0; left: 0; z-index: -1;" />
 </p>
-<h1 align="center">◈-◈-◈-◈-◈-◈-◈-◈- Dimalka Gallage -◈-◈-◈-◈-◈-◈-◈-◈</h1>
+<h1 align="center">Dimalka Gallage</h1>
 <a href="https://www.github.com/Dimalka3005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/dimalka-gallage-ba361b2bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.discord.gg/jbeZZxvQ" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
