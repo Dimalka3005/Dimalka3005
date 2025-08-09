@@ -29,7 +29,7 @@ Aspiring Software Engineer | Passionate Problem Solver | Driven to Become a Worl
 
 ## 🚀 Tech Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,git,java,mysql,php,figma,react,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,bootstrap,cpp,git,java,idea,mysql,php,laravel,figma,react,nodejs,expressjs,angular,postman)](https://skillicons.dev)
 
 
 ## 🎯 Goals for 2025
