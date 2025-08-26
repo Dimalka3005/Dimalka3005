@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUzcWdycGJ3NXB4YmE0eHFueWJmaWVzNHo5YmY4eTh1NjVta203dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Masterhead" width="100%" height="350" style="position: absolute; top: 0; left: 0; z-index: -1;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvY3podzFkNGN0ZGxhZXgwN244dDUydjFqNnZydGZzYXpxa2dneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="Masterhead" width="100%" height="350" style="position: absolute; top: 0; left: 0; z-index: -1;" />
 </p>
 <h1 align="center">Dimalka Gallage</h1>
 <a href="https://www.github.com/Dimalka3005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
